@@ -8,4 +8,4 @@
 - call one of the functions by typing its name and fitting arguments, e.g., `sumFacs 2 4`
 - to enable time measurements type `:set +s` in `ghci`
 - to create a list of integers from `a` to `b` type `[a..b]`
-- for very large integers use the type `integer` instead of `int`
+- for very large integers use the type `Integer` instead of `Int`
